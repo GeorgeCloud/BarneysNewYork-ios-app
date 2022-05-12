@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5539DDAC-5C32-493C-9A6A-A0120CCDFD0D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F809E89-2E1D-4615-BE10-3C59A4D66D52"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final/GridCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "GridCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6F809E89-2E1D-4615-BE10-3C59A4D66D52 - 92431c4a6cf26e3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final.GridCollectionViewCell.__allocating_init(frame: __C.CGRect) -&gt; final.GridCollectionViewCell"
+                  moduleName = "final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiirb/Library/Autosave%20Information/final/final/GridCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "6F809E89-2E1D-4615-BE10-3C59A4D66D52 - 74142bd75385b588"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final.GridCollectionViewCell.init(frame: __C.CGRect) -&gt; final.GridCollectionViewCell"
+                  moduleName = "final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiirb/Library/Autosave%20Information/final/final/GridCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "6F809E89-2E1D-4615-BE10-3C59A4D66D52 - 7688c9f7bd3c95ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "final.GridCollectionViewCell.__deallocating_deinit"
+                  moduleName = "final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kiirb/Library/Autosave%20Information/final/final/GridCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "926B9426-501F-453E-BE67-933C07AB3282"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "final/GridCollectionCellView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "layoutSubviews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
